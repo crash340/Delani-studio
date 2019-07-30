@@ -1,0 +1,217 @@
+.first-img {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.da {
+  text-align: center;
+  margin-left: 500p
+}
+
+.logo-move {
+  position: absolute;
+  top: 180px;
+  left: 600px;
+}
+
+.first-text {
+  position: absolute;
+  top: 250px;
+  left: 557px;
+  font-size: 2em;
+  color: white;
+  font-family: 'Roboto';
+}
+
+.second-text {
+  position: absolute;
+  top: 320px;
+  left: 430px;
+  font-size: 2.9em;
+  color: white;
+  font-family: 'Roboto';
+}
+
+.third-text {
+  position: absolute;
+  top: 390px;
+  left: 360px;
+  font-size: 0.9em;
+  color: white;
+  font-family: 'Roboto';
+}
+
+.mouse-click {
+  position: absolute;
+  top: 530px;
+  left: 630px;
+}
+
+.fourth-text {
+  text-align: center;
+  font-family: 'Roboto';
+}
+
+.fifth-text {
+  position: absolute;
+  top: 1000px;
+  left: 600px;
+  font-family: 'Roboto';
+  color: white;
+}
+
+.sixth-text {
+  position: absolute;
+  top: 1040px;
+  left: 200px;
+  font-family: 'Roboto';
+  color: white;
+}
+
+.seventh-text {
+  position: absolute;
+  top: 1100px;
+  left: 250px;
+  font-family: 'Roboto';
+  color: white;
+}
+
+.eight-text {
+  position: absolute;
+  top: 1070px;
+  left: 300px;
+  font-family: 'Roboto';
+  color: white;
+}
+
+.d {
+  font-family: 'Roboto';
+  text-align: center;
+  font-weight: 600;
+}
+
+.nine-text {
+  font-family: 'Roboto';
+  text-align: center;
+  padding-top: 10px;
+}
+
+.ten-text {
+  font-family: 'Roboto';
+  position: absolute;
+  top: 1510px;
+  left: 120px;
+}
+
+.eleven-text {
+  font-family: 'Roboto';
+  position: absolute;
+  top: 1550px;
+  left: 600px;
+}
+
+.twelve-text {
+  font-family: 'Roboto';
+  position: absolute;
+  top: 1520px;
+  left: 1000px;
+}
+
+.image4 {}
+
+.image5 {}
+
+.image7 {}
+
+.image8 {}
+
+.image9 {}
+
+.image10 {}
+
+
+.image1-hidden {
+  font-family: 'Roboto';
+  font-size: 1em;
+  display: none;
+  font-weight: 600;
+}
+
+.image2-hidden {
+  font-family: 'Roboto';
+  font-size: 1em;
+  display: none;
+  font-weight: 600;
+}
+
+.image3-hidden {
+  font-family: 'Roboto';
+  font-size: 1em;
+  display: none;
+}
+
+.image3 {}
+
+.row {
+  display: flex;
+  /* justify-content: com; */
+}
+
+body {
+  background-color: white;
+}
+
+.r {
+  text-align: center;
+  padding-right: 800px;
+  text-height: 20;
+  font-size: 1.2em;
+  position: absolute;
+  top: 1510px;
+}
+
+.t2 {
+  top: 1450px;
+  left: 590px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 1em;
+}
+
+.pos:hover {
+  transform: scale(1.5);
+  transition: all 0.3s ease;
+  opacity: 3;
+}
+.textbox{
+  background-color: transparent;
+  border: 2px solid white;
+  position: absolute;
+  top:2300px;
+  left: 700px;
+  width: 300px;
+}
+.textbox1{
+  background-color: transparent;
+  border: 2px solid white;
+  position: absolute;
+  top:2300px;
+  left: 300px;
+  width: 300px;
+}
+.textbox2{
+  background-color: transparent;
+  border: 2px solid white;
+  position: absolute;
+  top:2370px;
+  left: 400px;
+  width: 600px;
+  height: 200px;
+}
+.b-text{
+  position: absolute;
+  top: 2240px;
+  left:500px;
+  color: white;
+}
